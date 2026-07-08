@@ -18,7 +18,7 @@ Looking for help with AI integration, Python automation, or Rust systems?
 
 Email: dcaelr125@gmail.com
 
-Location: Prairie Village, KS (Available for remote projects)
+Location: KS (Available for remote projects)
 
 <!--
 **David-aka-Magic/David-aka-Magic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
