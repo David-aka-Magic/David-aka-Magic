@@ -1,5 +1,5 @@
 ### 🚀 About Me
-I'm David Ruhlman, a software developer specializing in AI integration, Rust, and high-performance system tooling. I build robust, local-first AI solutions and automation tools that prioritize speed and privacy.
+I'm David, a software developer specializing in AI integration, Rust, and high-performance system tooling. I build robust, local-first AI solutions and automation tools that prioritize speed and privacy.
 
 ### 🛠 Tech Stack
 * **Languages:** Rust, Python, Java
